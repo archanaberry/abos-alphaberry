@@ -172,5 +172,5 @@ ABOS adapts conventional software release terms (such as LTS, LTSC, RC) using **
 ## Credits
 
 Developed by: Archana Berry  
-Licensed: [APBL - Archana Berry Public License](https://github.com/archanaberry/Lisensi)
+Licensed: [APBL - Archana Berry Public License](https://github.com/archanaberry/Lisensi)  
 Warning: Don't make an OS distro for this OS!, inspiration is fine but imitation is prohibited!
