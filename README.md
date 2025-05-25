@@ -4,8 +4,8 @@ The first public implementation of **Archana Berry OS**, powered by a hybrid ker
 This public release is only available up to the final version **1.10.10.10_stable, codename: AlphaBerry**.
 
 <div style="display: flex; align-items: center;">
-  <img src="archanaberry/logo.png" alt="Logo OS" style="width: 100px; height: auto;">
-  <img src="archanaberry/mascot.png" alt="Maskot" style="width: 100px; height: auto; margin-left: 10px;">
+  <img src="archanaberry/logo.png" alt="Logo OS" style="width: 400px; height: auto;">
+  <img src="archanaberry/mascot.png" alt="Maskot" style="width: 400px; height: auto; margin-left: 10px;">
 </div>
 
 ---
