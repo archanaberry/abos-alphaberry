@@ -114,7 +114,7 @@ abrt\_sv00013   => ABRT GUI compositor bridge
 
 ABOS version format:
 Version: codename-000.1.2.3.4_stability-release
-Example: `AlphaBerry-000.1.10.10.10_stable`  
+Example: `AlphaBerry-000.1.10.10.10_stable-Everberry`  
 Where:
 - `Codename`
 - `000` = Runtime API generation (AlphaBerry)
