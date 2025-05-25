@@ -127,16 +127,17 @@ Where:
 
 ABOS adapts conventional software release terms (such as LTS, LTSC, RC) using **plant and berry-inspired themes** to reflect its unique character:
 
-| Standard Term | Berry-style Adaptation           | Description                                                                 |
-|---------------|----------------------------------|-----------------------------------------------------------------------------|
-| LTS           | **Long-Term Stem (LTS)**         | Long-term support release with stable kernel & runtime, ongoing patching   |
-| LTSC          | **Long-Term Stem Cultivate (LTSC)** | Stable release for specific controlled environments                        |
-| LTSB          | **Long-Term Stem Branch (LTSB)**  | Minimalist long-term stable version, focused on reliability over features  |
-| ESR           | **Extended Stem Release (ESR)**   | Suited for legacy or embedded systems with extended support needs          |
-| RC            | **Ripen Candidate**               | A mature release candidate before final Blossom version                    |
-| Alpha         | **Seedling**                      | Initial development phase, unstable API/ABI                                |
-| Beta          | **Sprouting**                     | More stable than Seedling, but still subject to changes; community testing |
-| Stable        | **Blossom**                       | Fully stable release, compatible and eligible for LTS/LTSC lines           |
+| **Common Term**         | **ABOS Term Name** | **Symbolic Meaning**                                                            |
+| ----------------------- | ---------------- | --------------------------------------------------------------------------------- |
+| **LTS**                 | `Everberry`      | From "Evergreen" + Berry. A stable release that stays fresh and long-lasting.     |
+| **LTSC / LTSB**         | `PreservedBerry` | Like a preserved fruit. Designed for long-term industrial or server environments. |
+| **ESR**                 | `HardseedBerry`  | Tough seed. Slow to grow (no new features), but resilient and long-living.        |
+| **Stable**              | `RipeBerry`      | Fully matured and ready for public use.                                           |
+| **Maintenance-only**    | `WiltedLeaf`     | No longer actively developed, but still receives critical patches.                |
+| **Beta / RC**           | `UnripeBerry`    | Not yet mature, still in testing phase.                                           |
+| **Nightly / Edge**      | `WildSprout`     | A fast-growing wild sprout. Exciting, but possibly unstable.                      |
+| **Rolling Release**     | `VineTrack`      | Like a vine that grows endlessly. Always evolving.                                |
+| **Dev / Preview Build** | `BloomTest`      | A freshly blooming flower. Beautiful but not yet fruit-bearing.                   |
 
 ---
 
