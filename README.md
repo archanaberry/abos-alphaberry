@@ -115,7 +115,7 @@ Version: codename-000.1.2.3.4_stability-release
 Example: `AlphaBerry-000.1.10.10.10_stable`  
 Where:
 - `Codename`
-- `000` = API generation (AlphaBerry)
+- `000` = Runtime API generation (AlphaBerry)
 - `1` = Major OS version
 - `10` = Minor system improvement
 - `10` = Update version
