@@ -4,7 +4,7 @@ The first public implementation of **Archana Berry OS**, powered by a hybrid ker
 This public release is only available up to the final version **1.10.10.10_stable, codename: AlphaBerry**.
 
 ![lLogo os](archanaberry/logo.png)
-![mascot](archanaberry/mascotberry.png)
+![mascot](archanaberry/mascot.png)
 
 ---
 
