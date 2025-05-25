@@ -27,7 +27,7 @@ This version, `abos-alphaberry`, introduces the first full implementation of the
 
 ### Executable Formats
 - **ABP**: Standard application packages (GUI, CLI).
-- **XABP**: Extended compiled applications with ABI links.
+- **XABP**: Scripting/Compiled abs script to bytecode runtime applications with ABI links.
 - **ABPI**: Installer packages for apps, system components, and drivers.
 - **BEFB (BEX)**: Core low-latency system binaries.
 - All formats are managed and executed by `abrt` runtime orchestrator.
