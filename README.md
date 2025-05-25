@@ -3,8 +3,10 @@
 The first public implementation of **Archana Berry OS**, powered by a hybrid kernel called **BBsh (BlueberryBush)** — a fusion of **Nano**, **Exo**, and **RN** kernel models.  
 This public release is only available up to the final version **1.10.10.10_stable, codename: AlphaBerry**.
 
-![lLogo os](archanaberry/logo.png)
-![mascot](archanaberry/mascot.png)
+<div style="display: flex; align-items: center;">
+  <img src="archanaberry/logo.png" alt="Logo OS" style="width: 100px; height: auto;">
+  <img src="archanaberry/mascot.png" alt="Maskot" style="width: 100px; height: auto; margin-left: 10px;">
+</div>
 
 ---
 
