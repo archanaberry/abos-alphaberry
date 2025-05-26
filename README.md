@@ -92,6 +92,10 @@ abrt_sv00013   => ABRT GUI compositor bridge
 ```
 
 - ABTP works across all runtime modes (Overslim to Fatted Girls Blueberry's) and ensures consistency between GUI/CLI environments, runtime containers, and driver spaces.
+ 
+### Execution two method
+- Via Berry (/sbin/berry) = Kernel direct execution (only execute befb berry binary)
+- Via ABRT (/sbin/archanaberry) = Runtime orchestrating system and executing apps/programs (.befb, .abp, .abbb, .xabp, etc...)
 
 ### Virtualization and GUI
 - **ABVM**: Archana Berry Virtual Machine layer for process isolation and containment.
@@ -101,12 +105,12 @@ abrt_sv00013   => ABRT GUI compositor bridge
 
 ### Driver & System
 - Drivers in `.abd` format, executed by ABRT in ring 3.
-- Hot-pluggable and auto-installable via ABPI.
+- Hot-pluggable and auto-installable via ABPI package and with ABPM (Archana Berry Package Manager).
 - Fully userspace-safe, sandboxed driver execution.
 - Fast syscall-based communication to runtime — near kernel-level latency (~0.3µs to 0.7µs).
 
 ### Boot Modes & CLI
-- Boot into ABBL-only mode for pure CLI: `reboot2oabblnative`.
+- Boot into ABBL-only mode for pure CLI: `$> archanaberry --power reboot2oabblnative`.
 - Multitab terminal support via **ABTTY**: `Alt + Arrow` or `Alt + 0-9`.
 - Supports live inits: `archanaberry init mindrv`, `minrt`, `mincom`.
 
