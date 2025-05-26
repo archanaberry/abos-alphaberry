@@ -58,7 +58,8 @@ This version, `abos-alphaberry`, introduces the first full implementation of the
   | Token Prefix        | Description                                |
   |---------------------|--------------------------------------------|
   | `ab_p<token>`       | Standard runtime native application (GUI/CLI)         |
-  | `ab_xp<token>`      | Raw abs script runtime packaged application (precompiled or ABI-bound) |
+  | `ab_bb<token>`      | Standard bytecode abs compiled application         |
+  | `ab_xp<token>`      | Raw abs script runtime packaged application (ABI-bound) |
   | `ab_xpc<token>`     | Fully compiled abs from XABP binary bytecode for efficienty abrt execute abs compiled package                | 
   | `befb_<token>`      | Core system-level binary berry executable (BEFB/BEX)        |
   | `ab_i<token>`       | Installer process from `.abpi` package     |
