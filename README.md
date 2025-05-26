@@ -79,15 +79,16 @@ This version, `abos-alphaberry`, introduces the first full implementation of the
 - **Example Token Output**:
 
 ```
-ab\_p3893129    => GUI Notes App
-ab\_xp2104821   => Raw binary utility
-ab\_xpc7781134  => Compiled graphical tool
-befb\_0001941   => Core system command (sysinfo)
-ab\_i1120391    => Installer for BerryClock.abpi
-abs\_8834212    => Running script: disk\_clean.abs
-abd\_2849112    => Network card driver daemon
-abrt\_cr00001   => ABRT minimal runtime core
-abrt\_sv00013   => ABRT GUI compositor bridge
+ab_p3893129    => GUI Notes App
+ab_bb8615277   => "helloworld.abbb" bytecode abs compiled
+ab_xp2104821   => Raw binary utility
+ab_xpc7781134  => Compiled graphical tool
+befb_0001941   => Core system command (sysinfo)
+ab_i1120391    => Installer for BerryClock.abpi
+abs_8834212    => Running script: disk\_clean.abs
+abd_2849112    => Network card driver daemon
+abrt_cr00001   => ABRT minimal runtime core
+abrt_sv00013   => ABRT GUI compositor bridge
 ```
 
 - ABTP works across all runtime modes (Overslim to Fatted Girls Blueberry's) and ensures consistency between GUI/CLI environments, runtime containers, and driver spaces.
