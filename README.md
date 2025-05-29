@@ -18,6 +18,36 @@ This version, `abos-alphaberry`, introduces the first full implementation of the
 
 ---
 
+## Neofetch like system information operating systems
+
+```bash
+<MyPC>@archanaberry[~]$> sysinfo --stdout
+<user>@<host name/device name>
+
+OS: Archana Berry 1 - 64-bit
+OS Name: UBerryNix
+Codename: AlphaBerry
+Host: <MyPC>
+Kernel: 0.0.1-AlderRoot_alpha ArchanaNexoberry-Seedv1
+Runtime Native: ABRT - Archana Berry
+Uptime: 5 hours 16 mins
+Packages: 512 (abpm)
+Shell: BerryShell 5.7
+Terminal: BerryTerm
+DE: BerryDE - /system/absyscom/berryde.abrtcr
+WM: BerryWM - /system/absyscom/berrywm.abrtcr
+Composite: BerryX11 - /system/absyscom/berryx11.abrtcr
+Resolution: 1920x1080px (FHD)
+CPU: AMD Ryzen 5 5600G (12) @ 3.9GHz
+Memory: 5632MiB / 8192MiB
+GPU: Radeon Vega 7 Graphics
+Disk: 72GiB / 256GiB (ABFS)
+Process sysinfo: befb_22613829711 - /dev/berry/berryexec_22613829711
+Media: Song: Lo-Fi Berry Chill - 320Kbps - /dev/berry/audio1
+```
+
+---
+
 ## Features
 
 ### Kernel: BBsh (BlueberryBush)
