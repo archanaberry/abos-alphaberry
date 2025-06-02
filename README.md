@@ -62,6 +62,7 @@ Media: Song: Lo-Fi Berry Chill - 320Kbps - /dev/berry/audio1
 - **ABP**: Standard runtime application high level packages (GUI, CLI) 32/64.
 - **ABP32**: Standard runtime application high level packages (GUI, CLI) for 32 bit.
 - **ABP64**: Standard runtime application high level packages (GUI, CLI) for 64 bit.
+- **ABBB**: Bytecode compiled from abs script to more efficient abrt execute and compiled pack script app for abrt.
 - **XABP**: Scripting/Compiled abs script to bytecode runtime applications with ABI links.
 - **ABPI**: Installer packages for apps, system components, and drivers.
 - **BEFB (BEX)**: Core low-latency system binaries for 16bit architecture REAL-MODE.
