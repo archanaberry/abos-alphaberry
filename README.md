@@ -29,6 +29,7 @@ OS Name: UBerryNix
 Codename: AlphaBerry
 Host: <MyPC>
 Kernel: 0.0.1-AlderRoot_alpha ArchanaNexoberry-Seedv1
+Mode OS: <Runtime Active/ABBL Only (16/32/64 Bit)>
 Runtime Native: ABRT - Archana Berry
 Uptime: 5 hours 16 mins
 Packages: 512 (abpm)
