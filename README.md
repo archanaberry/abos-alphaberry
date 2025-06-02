@@ -58,10 +58,15 @@ Media: Song: Lo-Fi Berry Chill - 320Kbps - /dev/berry/audio1
 - Supports monolithic-like style and modular execution units.
 
 ### Executable Formats
-- **ABP**: Standard application packages (GUI, CLI).
+- **ABP**: Standard runtime application high level packages (GUI, CLI) 32/64.
+- **ABP32**: Standard runtime application high level packages (GUI, CLI) for 32 bit.
+- **ABP64**: Standard runtime application high level packages (GUI, CLI) for 64 bit.
 - **XABP**: Scripting/Compiled abs script to bytecode runtime applications with ABI links.
 - **ABPI**: Installer packages for apps, system components, and drivers.
-- **BEFB (BEX)**: Core low-latency system binaries.
+- **BEFB (BEX)**: Core low-latency system binaries for 16bit architecture REAL-MODE.
+- **BEDS (BEX DOS)**: Another name for BEFB16 for a DOS-like 16bit program.
+- **BEFB32 (BEX)**: Core low-latency system binaries 32 bit.
+- **BEFB64 (BEX)**: Core low-latency system binaries 64 bit.
 - All formats are managed and executed by `abrt` runtime orchestrator.
 
 ### Runtime: ABRT (Archana Berry Runtime)
